@@ -1,17 +1,9 @@
 #include<iostream>
-
+#include"source.cpp"
 using namespace std;
 
 int main()
 {
-	int n;
-
-	cout<<"Hello 11euuuueee"<< endl;
-
-	cout<<"222222";
-	
-	cin>>n;
-	cout<<n;
-	
+	People thuc;
 	return 0;
 }
