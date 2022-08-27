@@ -8,7 +8,7 @@ int main()
 
 	cout<<"Hello 11euuuueee";
 
-	cout<<"2222";
+	cout<<"222222";
 	cin>>n;
 	cout<<n;
 	return 0;
