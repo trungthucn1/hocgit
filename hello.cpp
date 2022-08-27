@@ -4,6 +4,6 @@ using namespace std;
 
 int main()
 {
-	People thuc;
+	People thuc1;
 	return 0;
 }
