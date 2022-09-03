@@ -8,6 +8,7 @@ int main(int argc, char const *argv[])
     cout<<A<<endl<<&A[0]<<endl;
     cout<<*A<<endl<<*(A+1)<<endl;
     int *p= &A[0];
-    cout<<p+1;
+    cout<<p+1<<endl;
+    cout<<*(p+1);
     return 0;
 }
