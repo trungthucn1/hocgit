@@ -6,7 +6,7 @@ People::People(/* args */)
     cout<<"hello constructor"<< endl;
     cout<<"test";
     
-}
+ }
 
 People::~People()
 {
