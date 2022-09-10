@@ -1,5 +1,5 @@
-.vscode/
+/.vscode
 hello.cpp
 source.cpp
 source.h
-Pointer/
+/Pointer
